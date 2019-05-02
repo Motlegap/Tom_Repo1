@@ -1,0 +1,51 @@
+[33mcommit 94a5dc10e3c32741280846bd785e54ea2ed7c059[m[33m ([m[1;36mHEAD -> [m[1;32mgood[m[33m)[m
+Author: Tom Pagel <TPagel@sorenson.com>
+Date:   Thu May 2 13:44:48 2019 -0600
+
+    Commit Bad
+
+[33mcommit 7538fd1fd1a5bb6df1f9343984c317d7593b6ebf[m[33m ([m[1;31morigin/cool-stuff[m[33m, [m[1;32mcool-stuff[m[33m)[m
+Merge: eed3a08 16282a3
+Author: Tom Pagel <TPagel@sorenson.com>
+Date:   Thu May 2 13:31:27 2019 -0600
+
+    Merge branch 'master' of https://github.com/Motlegap/Tom_Repo1 into cool-stuff
+
+[33mcommit 16282a30590757c3f55958b87d5101fa84afd886[m
+Author: Motlegap <50211809+Motlegap@users.noreply.github.com>
+Date:   Thu May 2 13:30:53 2019 -0600
+
+    Update file1.txt
+
+[33mcommit eed3a0818e9becb86a74ec1e73c9c1f1b4ea474c[m
+Merge: c624118 f73ca7b
+Author: Tom Pagel <TPagel@sorenson.com>
+Date:   Thu May 2 13:29:16 2019 -0600
+
+    Merge branch 'master' of https://github.com/Motlegap/Tom_Repo1 into cool-stuff
+
+[33mcommit c624118356e7ffaf733699f6de545f15c15ba5fc[m
+Author: Tom Pagel <TPagel@sorenson.com>
+Date:   Thu May 2 12:53:58 2019 -0600
+
+    gave an ext
+
+[33mcommit f73ca7be9fa469093ae4e9c6eee4a056aa8af937[m
+Author: Motlegap <50211809+Motlegap@users.noreply.github.com>
+Date:   Thu May 2 11:09:00 2019 -0600
+
+    Update file2
+    
+    I added a sentance
+
+[33mcommit d6deff753cc6e48f1cc5ae0531a1f6eec3a07937[m
+Author: Tom Pagel <TPagel@sorenson.com>
+Date:   Thu May 2 11:05:57 2019 -0600
+
+    I changed a file and added another
+
+[33mcommit 80cfb537b5f6d61726382b7889cf8c6baebdbaa9[m
+Author: Tom Pagel <TPagel@sorenson.com>
+Date:   Thu May 2 09:54:13 2019 -0600
+
+    initial commit
